@@ -86,7 +86,7 @@ void doTheme() {  // Use this to put your own colors in: http://www.barth-dev.de
       RDSDropoutColor = CyanDark;
       RDSDropoutColorSmooth = CyanDarkSmooth;
       BarSignificantColor = Purple;
-      BarInsignificantColor = Skyblue;
+      BarInsignificantColor = Cyan;
       ModBarSignificantColor = Blue;
       ModBarInsignificantColor = Cyan;
       BWAutoColor = Teal;
@@ -187,7 +187,7 @@ void doTheme() {  // Use this to put your own colors in: http://www.barth-dev.de
       BarSignificantColor = Tangerine;
       BarInsignificantColor = Orange;
       ModBarSignificantColor = Tangerine;
-      ModBarInsignificantColor = Yolk;
+      ModBarInsignificantColor = Orange;
       BWAutoColor = Tangerine;
       BWAutoColorSmooth = TangerineSmooth;
       BatteryValueColor = Tangerine;
@@ -220,7 +220,7 @@ void doTheme() {  // Use this to put your own colors in: http://www.barth-dev.de
       BarSignificantColor = Green;
       BarInsignificantColor = Cabbage;
       ModBarSignificantColor = Green;
-      ModBarInsignificantColor = Teal;
+      ModBarInsignificantColor = Cabbage;
       BWAutoColor = Cabbage;
       BWAutoColorSmooth = CabbageSmooth;
       BatteryValueColor = Cabbage;
@@ -284,7 +284,7 @@ void doTheme() {  // Use this to put your own colors in: http://www.barth-dev.de
       RDSDropoutColor = PureGrey;
       RDSDropoutColorSmooth = White;
       BarSignificantColor = Black;
-      BarInsignificantColor = Cabbage;
+      BarInsignificantColor = Green;
       ModBarSignificantColor = Black;
       ModBarInsignificantColor = Green;
       BWAutoColor = PureGrey;
@@ -317,7 +317,7 @@ void doTheme() {  // Use this to put your own colors in: http://www.barth-dev.de
       RDSDropoutColor = Copper;
       RDSDropoutColorSmooth = CopperSmooth;
       BarSignificantColor = Yolk;
-      BarInsignificantColor = Orange;
+      BarInsignificantColor = Tangerine;
       ModBarSignificantColor = Yolk;
       ModBarInsignificantColor = Tangerine;
       BWAutoColor = Yolk;
@@ -385,7 +385,7 @@ void doTheme() {  // Use this to put your own colors in: http://www.barth-dev.de
       BarSignificantColor = Indigo;
       BarInsignificantColor = Cherry;
       ModBarSignificantColor = Indigo;
-      ModBarInsignificantColor = Violet;
+      ModBarInsignificantColor = Cherry;
       BWAutoColor = Violet;
       BWAutoColorSmooth = VioletSmooth;
       BatteryValueColor = Violet;
@@ -442,8 +442,8 @@ void doTheme() {  // Use this to put your own colors in: http://www.barth-dev.de
       FreqColorSmooth = WhiteSmooth;
       SignificantColor = Red;
       SignificantColorSmooth = RedSmooth;
-      InsignificantColor = Ocean;
-      InsignificantColorSmooth = OceanSmooth;
+      InsignificantColor = Green;
+      InsignificantColorSmooth = GreenSmooth;
       StereoColor = Red;
       StereoColorSmooth = RedSmooth;
       RDSColor = Yellow;
