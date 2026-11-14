@@ -3549,7 +3549,7 @@ void ShowRDSLogo(bool RDSstatus) {
   if (!screenmute) {
     if (RDSstatus != RDSstatusold) {
       if (RDSstatus) {
-        tft.drawBitmap(68, 5, RDSLogo, 35, 22, RDSColor);
+        tft.drawBitmap(68, 5, RDSLogo, 35, 22, White);
       } else {
         tft.drawBitmap(68, 5, RDSLogo, 35, 22, GreyoutColor);
       }
